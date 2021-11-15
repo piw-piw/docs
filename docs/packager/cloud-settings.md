@@ -2,6 +2,7 @@
 slug: /packager/embedding
 hide_table_of_contents: true
 sidebar_label: Cloud settings
+---
 
 # Partial support for special cloud behaviors, like HTMLifier
 
